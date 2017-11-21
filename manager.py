@@ -22,3 +22,6 @@ if __name__=='__main__':
 
     # manager.add_command('hello', Hello())
     manager.run()
+
+# TODO
+# Python decorator [link](https://www.thecodeship.com/patterns/guide-to-python-function-decorators/)
